@@ -1,8 +1,11 @@
-# VGG 16 classification
+VGG 16 classification
+=====================
 
 Script uses pretrained VGG16 model which head can be trained on a dataset specified by the user.
 
-## How to run the code?
+How to run the code?
+====================
+
 1. Create virtual environment and install packages from requirements.txt
 
 :Create env: `python3 -m venv /path/to/new/virtual/environment`
